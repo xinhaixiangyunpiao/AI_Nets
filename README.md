@@ -9,3 +9,5 @@
 - Transformer
 - Attention
 - Bert
+- Vgg
+- GoogleNet
