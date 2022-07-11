@@ -1,5 +1,5 @@
 # AI Nets
-- lexNet
+- AlexNet
 - CNN
 - RNN
 - LSTM
