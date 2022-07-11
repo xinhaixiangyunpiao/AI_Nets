@@ -1,0 +1,11 @@
+# AI Nets
+- lexNet
+- CNN
+- RNN
+- LSTM
+- Yolo
+- OpenPose
+- ResNet
+- Transformer
+- Attention
+- Bert
